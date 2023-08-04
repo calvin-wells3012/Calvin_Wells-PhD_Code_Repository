@@ -1,3 +1,3 @@
-# PhD_Resources
+# PhD Python Code Repository
 
-## This rwepository include all code used for data analysis and processing used in the PhD thesis "".
+## This repository includes the Python code developed for the data processing and analysis used in Calvin Wells' PhD thesis.
